@@ -1,6 +1,6 @@
 /*
-Programa        : General_Structure.
-Programador     : Alvaro Cueva
+Program        : General_Structure.
+Programmer     : Alvaro Cueva
 Description     : First program in C.
 Creation date   : April 2025
 Revision        : None
