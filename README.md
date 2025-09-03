@@ -1,4 +1,4 @@
-# Pasos crear un programa en C
+# Proceso de ejecución de un programa en C
 ## 1. Utilizar un editor de texto para escribir el programa y grabarlo en un archivo.
 ### Al grabar el archivo, este constituye el código fuente del programa.
 
